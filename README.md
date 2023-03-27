@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Evan
 - 👀 I’m interested in Python, Flask, IOT Raspbery Pi and Pico
+- I work as a Dev Lead and we use C# / Asp.net
 - 🌱 I’m currently learning Python Test Mocking
 - 📫 You can reach me here on github, I'm on frequently. 
 
